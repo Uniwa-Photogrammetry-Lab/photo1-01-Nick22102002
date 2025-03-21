@@ -1,3 +1,10 @@
+# nikos kwstakas
+# am 21391044
+# 8 examino
+# geo21391044@uniwa.gr
+
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
